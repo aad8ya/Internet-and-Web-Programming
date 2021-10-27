@@ -10,3 +10,5 @@ To create my resume using pure HTML only
 
 **To Run**<br />
 Open `index.html` in a web browser
+
+![Sample Screenshot](./SampleScreenshot.jpeg)

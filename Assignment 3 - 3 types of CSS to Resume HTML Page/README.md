@@ -11,4 +11,4 @@ To add 3 types of CSS to my resume created using pure HTML in the 1st assignment
 **To Run**<br />
 Open `index.html` in a web browser
 
-<!-- ![Sample Screenshot](https://github.com/aad8ya/Internet-and-Web-Programming/blob/main/Assignment%202%20-%20HTML%20Resume%20with%20CSS/SampleScreenshot.jpg) -->
+![Sample Screenshot](https://github.com/aad8ya/Internet-and-Web-Programming/blob/main/Assignment%203%20-%203%20types%20of%20CSS%20to%20Resume%20HTML%20Page/SampleScreenshot.jpg)

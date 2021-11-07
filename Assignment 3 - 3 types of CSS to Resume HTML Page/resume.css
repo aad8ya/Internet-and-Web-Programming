@@ -1,0 +1,14 @@
+.highlight{
+    font-weight: bold;
+    color: mediumslateblue;
+}
+
+.organization{
+    font-style: italic;
+    color: slategray;
+}
+
+.bullet{
+    font-weight: lighter;
+    color: darkslategray;
+}

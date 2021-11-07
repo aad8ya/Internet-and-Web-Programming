@@ -1,4 +1,4 @@
-# Assignment 1 - HTML Resume with CSS - 07/11/2021
+# Assignment 2 - HTML Resume with CSS - 07/11/2021
 ### Adithya  G - 18BCS102
  
 **Aim**<br />

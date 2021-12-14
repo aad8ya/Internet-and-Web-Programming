@@ -1,9 +1,9 @@
-# Assignment 4 - Apply CSS Box Model for a HTML Page - 15/12/2021
+# Assignment 4 - CSS Box Model for a HTML Page - 15/12/2021
 
 ### Adithya G - 18BCS102
 
 **Aim**<br />
-To apply CSS Box Model to my resume created using pure HTML in the 1st assignment
+To apply CSS Box Model to my resume created using HTML in the previous assignment
 
 **Requirements**
 

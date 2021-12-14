@@ -12,8 +12,6 @@ To develop a JSP form to collect user registration details
 - Eclipse IDE
 
 **To Run**<br />
-Open `index.html` in a web browser
+Open `home.jsp` & `registration.jsp` in Eclipse IDE
 
-![Sample Screenshot 1](https://github.com/aad8ya/Internet-and-Web-Programming/blob/main/Assignment%204%20-%20CSS%20Box%20Model%20for%20a%20HTML%20Page/SampleScreenshot.jpg)
-
-![Sample Screenshot 2](https://github.com/aad8ya/Internet-and-Web-Programming/blob/main/Assignment%204%20-%20CSS%20Box%20Model%20for%20a%20HTML%20Page/SampleScreenshot.jpg)
+![Sample Screenshot](https://github.com/aad8ya/Internet-and-Web-Programming/blob/main/Assignment%205%20-%20Develop%20a%20JSP%20Form/SampleScreenshot1.jpg)

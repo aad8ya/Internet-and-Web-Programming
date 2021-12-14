@@ -1,0 +1,23 @@
+.highlight {
+  font-weight: bold;
+  color: mediumslateblue;
+}
+
+.organization {
+  font-style: italic;
+  color: slategray;
+}
+
+.bullet {
+  font-weight: lighter;
+  color: darkslategray;
+}
+
+/* box model */
+div {
+  background-color: lightgrey;
+  width: auto;
+  border: 1px;
+  padding: 20px;
+  margin: 20px;
+}

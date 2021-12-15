@@ -13,4 +13,4 @@ _Define XHTML Abstract Syntax and create your resume page using XHTML._<br />
 - Replace the name attribute with the id attribute.
 - Deprecate the language attribute of the script tag.
 
-![Sample Screenshot](https://github.com/aad8ya/Internet-and-Web-Programming/blob/main/Assignment%207%20-%20Servlet%20Program%20to%20Add%202%20Numbers/SampleScreenshot.jpg)
+![Sample Screenshot](https://github.com/aad8ya/Internet-and-Web-Programming/blob/main/Assignment%208%20-%20XHTML%20Resume/SampleScreenshot.jpg)

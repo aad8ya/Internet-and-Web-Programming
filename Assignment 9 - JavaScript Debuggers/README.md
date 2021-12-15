@@ -8,10 +8,8 @@ _List various JavaScript debuggers and explain with suitable code._<br />
 - The console.log () method is used to display JavaScript values in the browser.
 - The debugger keyword stops the execution of JavaScript and calls the debugging function. This has the same function as setting a breakpoint in the debugger.
 
-<br />
 console.log()
-![Sample Screenshot](https://github.com/aad8ya/Internet-and-Web-Programming/blob/main/Assignment%208%20-%20XHTML%20Resume/SampleScreenshot.jpg)
+![console.log()](https://github.com/aad8ya/Internet-and-Web-Programming/blob/main/Assignment%209%20-%20JavaScript%20Debuggers/consoleLog.jpg)
 
-<br />
 Breakpoint / debugger keyword
-![Sample Screenshot](https://github.com/aad8ya/Internet-and-Web-Programming/blob/main/Assignment%208%20-%20XHTML%20Resume/SampleScreenshot.jpg)
+![breakpoint](https://github.com/aad8ya/Internet-and-Web-Programming/blob/main/Assignment%209%20-%20JavaScript%20Debuggers/breakpoint.jpg)

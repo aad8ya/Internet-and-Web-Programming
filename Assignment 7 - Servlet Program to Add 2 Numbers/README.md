@@ -14,6 +14,6 @@ To develop a servlet program to add two numbers
 **To Run**<br />
 Open `index.html`, `Add_Numbers.java` & `web.xml` in Eclipse IDE with the file structure shown in the below screenshots
 
-![Sample Screenshot](https://github.com/aad8ya/Internet-and-Web-Programming/blob/main/Assignment%206%20-%20JSP%20Login%20Form%20with%20Cookies/SampleScreenshot.jpg)
+![Sample Screenshot](https://github.com/aad8ya/Internet-and-Web-Programming/blob/main/Assignment%207%20-%20Servlet%20Program%20to%20Add%202%20Numbers/SampleScreenshot.jpg)
 
-![File Structure](https://github.com/aad8ya/Internet-and-Web-Programming/blob/main/Assignment%206%20-%20JSP%20Login%20Form%20with%20Cookies/FileStructure.jpg)
+![File Structure](https://github.com/aad8ya/Internet-and-Web-Programming/blob/main/Assignment%207%20-%20Servlet%20Program%20to%20Add%202%20Numbers/FileStructure.jpg)

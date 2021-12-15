@@ -1,4 +1,4 @@
-# Assignment 6 - Develop a JSP Form with Session - 16/12/2021
+# Assignment 10 - Develop a JSP Form with Session - 16/12/2021
 
 ### Adithya G - 18BCS102
 

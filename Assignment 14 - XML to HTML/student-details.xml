@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/adith/Desktop/Internet-and-Web-Programming/Assignment%2014%20-%20XML%20to%20HTML/student-details.xsl"?>
+<student-details>
+  <student>
+    <student-name>Adithya G</student-name>  
+    <student-id>001</student-id>
+    <joining-year>2018</joining-year>
+    <student-department>CSE</student-department>
+  </student>
+  <student>
+    <student-name>Amudhan SM</student-name>  
+    <student-id>002</student-id>
+    <joining-year>2018</joining-year>
+    <student-department>CSE</student-department>
+  </student>
+  <student>
+    <student-name>Sivaram Shabari</student-name>  
+    <student-id>003</student-id>
+    <joining-year>2018</joining-year>
+    <student-department>CSE</student-department>
+  </student>
+  <student>
+    <student-name>Ibrahim Khalil</student-name>  
+    <student-id>004</student-id>
+    <joining-year>2018</joining-year>
+    <student-department>CSE</student-department>
+  </student>
+  <student>
+    <student-name>Kaaviya Harani</student-name>  
+    <student-id>005</student-id>
+    <joining-year>2018</joining-year>
+    <student-department>CSE</student-department>
+  </student>
+</student-details>

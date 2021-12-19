@@ -10,6 +10,6 @@ To create an XML file for student details, generating a schema for it and valida
 - XML Copy Editor
 
 **To Run**<br />
-Open `student-details.xml`& `student-details.dtd` in XML Copy Editor and click on validate
+Open `student-details.xml` & `student-details.dtd` in XML Copy Editor and click on validate
 
 ![Sample Screenshot](https://github.com/aad8ya/Internet-and-Web-Programming/blob/main/Assignment%2012%20%20-%20XML%20Validation/SampleScreenshot.jpg)

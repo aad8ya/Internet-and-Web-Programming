@@ -13,4 +13,4 @@ To create an XML file and tranform it to HTML with XSLT using XML Copy Editor
 **To Run**<br />
 Open `student-details.xml` in a web browser
 
-![Sample Screenshot](https://github.com/aad8ya/Internet-and-Web-Programming/blob/main/Assignment%2012%20%20-%20XML%20Validation/SampleScreenshot.jpg)
+![Sample Screenshot](https://github.com/aad8ya/Internet-and-Web-Programming/blob/main/Assignment%2014%20-%20XML%20to%20HTML/SampleScreenshot.jpg)

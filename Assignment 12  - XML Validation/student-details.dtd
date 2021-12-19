@@ -1,0 +1,6 @@
+<!ELEMENT student-details (student+)>
+<!ELEMENT student (student-name, student-id, joining-year, student-department)>
+<!ELEMENT student-name (#PCDATA)>
+<!ELEMENT student-id (#PCDATA)>
+<!ELEMENT joining-year (#PCDATA)>
+<!ELEMENT student-department (#PCDATA)>

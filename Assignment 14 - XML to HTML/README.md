@@ -3,7 +3,7 @@
 ### Adithya G - 18BCS102
 
 **Aim**<br />
-To create an XML file and tranform it to HTML with XSLT using XML Copy Editor
+To create an XML file and transform it to HTML with XSLT using XML Copy Editor
 
 **Requirements**
 
